@@ -1,4 +1,0 @@
-se rundt -> identifiser firkanta høye objekt -> om objekt har "spak" på seg -> gå bort til objekt
--> ta handa på spaken -> press ned -> dra objektet til seg
--> om objektet flytter seg og rom bak: gå inn
--> om ikke spak eller ikke flytter på seg og rom bak: gå til neste objekt
