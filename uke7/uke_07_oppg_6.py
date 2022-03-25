@@ -14,7 +14,7 @@ def pigify(phrase):
         if to_cut != -1:
             phrase = phrase[to_cut:]
         else:
-            to_add = "" #om ingen bokstava å kutte, kan like greitt nullstille den
+            to_add = ""  # om ingen bokstava å kutte, ikke legg til noe
 
         return phrase + to_add + "ay"
 
